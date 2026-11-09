@@ -8,8 +8,9 @@ I believe AI can write the code, but the human must own the architecture. My app
 
 ## Core Competencies
 - **AI & Agents:** LangGraph, LangChain, Vercel AI SDK, Multi-agent orchestration, LLM tool-calling.
-- **Backend:** Node.js, NestJS, TypeScript, PostgreSQL, Redis, Microservices.
+- **Backend & Architecture:** Node.js, NestJS, TypeScript, **Effect-TS**, **System Design**, PostgreSQL, Redis, Microservices.
 - **Frontend:** React, Next.js, TypeScript, State Management.
+- **Engineering Practices:** Test-driven development (Unit/E2E/Evals), API design, CI/CD, PII security.
 
 ## Contact
 - Email: dev.mahanfakhimi@gmail.com
